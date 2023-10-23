@@ -1,0 +1,54 @@
+body {
+    background-color: #1a1a1a;
+    font-family: sans-serif;
+  }
+  h2 {
+    font-style: italic;
+    text-align: center;
+    color: #E5E5F5;
+  }
+  h3 {
+    color: #E5E5F5;
+    text-align: center;
+    padding-right: 8%;
+  }
+  #lorem {
+    color: #E5E5F5;
+    width: 400px;
+    margin-left: 36.5%;
+    text-align: left;
+  }
+  select {
+    background-color: #e5e5f5;
+  }
+  
+  .dropdown-container {
+    text-align: center;
+  }
+  
+  select {
+    border: #e5e5f5;
+    border-radius: 5px 5px 5px 5px;
+    width: 400px;
+    padding: 10px;
+    margin: 0 auto;
+    display: block;
+  }
+  .select {
+    padding-bottom: 10px;
+  }
+  .button-container {
+    text-align: right;
+    border: none;
+    border-radius: 50px 50px 50px 50px;
+    text-decoration: none;
+  }
+  button {
+    padding-right: 12px;
+    margin-right: 36%;
+    width: 100px;
+    height: 30px;
+    color: #fafafa;
+    background-color: #455590;
+  }
+  
