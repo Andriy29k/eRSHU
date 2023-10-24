@@ -32,7 +32,6 @@ select {
   padding: 10px;
   margin: 0 auto;
   display: block;
-
 }
 
 .select {
@@ -52,4 +51,9 @@ button {
   color: #fafafa;
   background-color: #455590;
 }
-
+button:hover {
+  cursor: pointer;
+}
+button:active {
+  background-color: #455550;
+}
