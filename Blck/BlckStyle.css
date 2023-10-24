@@ -13,10 +13,12 @@ body {
     padding-right: 8%;
   }
   #lorem {
-    color: #E5E5F5;
-    width: 400px;
-    margin-left: 36.5%;
-    text-align: left;
+  color: #E5E5F5;
+  padding-top: 15px;
+  width: 400px;
+  margin-left: 36.5%;
+  text-align: left;
+  padding-bottom: 20px;
   }
   select {
     background-color: #e5e5f5;
